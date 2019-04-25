@@ -1,0 +1,21 @@
+{
+  "name": "underscore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "underscore.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "jsdoc": "jsdoc ./src/underscorejs.js -d ./docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "jsdoc": "^3.5.5"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "node-fetch": "^2.3.0"
+  }
+}
